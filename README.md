@@ -5,5 +5,6 @@
 •estudo no 1° ano do ensino médio 
 
 •e este perfil é reservado para eu postar as 
-tarefas que eu faço na aula de pensamento
+tarefas que eu faço na aula de pensamento computacional.
+
  
